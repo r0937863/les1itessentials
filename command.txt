@@ -1,0 +1,10 @@
+git --version
+git inet
+
+git config --global user.email "r0937863@student.thomasmore.be"
+git config --global user. "Vincent"
+git config --global -e
+git config --global core.autocrlf true
+
+git remote add origin https://github.com/r0937863/les1itessentials.git
+git pull origin master
